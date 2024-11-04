@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Taschner85
 - 👀 I’m interested in Automation 
-- 🌱 I’m currently learning C# / Structured Language
-- 💞️ I’m looking to collaborate on Autimation/SPS Tia Portal 
+- 🌱 Siemens TIA-Portal, Beckhoff TwinCat3, Delphi Embarcadero (Pascal), ABB RobotStudio.
+- 💞️ 
 - 📫 How to reach me karlheinz.taschner@chello.at
 
 <!---
