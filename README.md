@@ -2,7 +2,8 @@
 - 👀 I’m interested in Automation 
 - 🌱 Siemens TIA-Portal, Beckhoff TwinCat3, Delphi Embarcadero (Pascal), ABB RobotStudio.
 - 💞️ 
-- 📫 How to reach me karlheinz.taschner@chello.at
+- 📫 How to reach me karlheinz.taschner6974@gmail.com
+- 
 
 <!---
 Taschner85/Taschner85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
